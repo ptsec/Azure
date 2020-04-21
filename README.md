@@ -6,8 +6,7 @@ This document was designed to be a study guide for passing the Microsoft Azure F
 
 ## Table of Contents
 
-* [Important Key Terms To Know](https://github.com/ptsec/Malware-Analysis/blob/master/chart-01.png)
-* [Basic Static Analysis](https://github.com/ptsec/Malware-Analysis/#basic-static-analysis)
-* [Basic Dynamic Analysis](https://github.com/ptsec/Malware-Analysis/#basic-dynamic-analysis)
-* [Advanced Static Analysis](https://github.com/ptsec/Malware-Analysis/#advanced-static-analysis)
-* [Advanced Dynamic Analysis](https://github.com/ptsec/Malware-Analysis/#advanced-dynamic-analysis)
+* [Important Key Terms To Know](https://github.com/ptsec/Azure/blob/master/AZ-900-KEY-TERMS.pdf)
+* [Exam-Preparation-Guide by Perth Ngarmtrakulchol](https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a)
+* [Recommended Online Course On Udemy](https://www.udemy.com/course/microsoft-azure-beginners-guide/)
+
