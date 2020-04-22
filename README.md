@@ -1,7 +1,7 @@
 # Azure Certifications
 
 ## Summary
-This document was designed to be a study guide for passing the Microsoft Azure Fundamentals Exam (AZ-900).
+This document was designed to be a study guide to prepare for the Microsoft Azure Fundamentals Exam (AZ-900).
 
 
 ## Table of Contents
